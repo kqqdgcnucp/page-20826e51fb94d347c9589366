@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e2329982e703b7c9db251019",
+  "owner": "kqqdgcnucp",
+  "repo": "page-20826e51fb94d347c9589366",
+  "title": "724NETWORK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "20826e51fb94d347c9589366",
+      "a": "724NETWORK",
+      "b": "2027最新官网",
+      "entity": "724NETWORK",
+      "brand": "724NETWORK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8ea50308b83751b1eb67e497acb0a10f259afae3803031cc48287966cd14e418",
+      "content": {
+        "primary_entity": "724NETWORK",
+        "keyword1": "724NETWORK",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，阅读订阅导入说明后再配置。",
+          "AI_CLIENTS_TITLE": "客户端下载与适配",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "立即选择适合的套餐",
+          "AI_DESCRIPTION": "，专注于为跨境办公、流媒体和游戏用户提供海外网络加速服务，套餐从每月 100GB 到 1000GB 流量，覆盖 3 台到 20 台设备同时在线。基础版适合轻度浏览，旗舰版带 IPLC 专线优化，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度对比套餐，找到匹配使用场景的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化，团队版含 VIP 专属高带宽节点，适合对延迟和带宽有要求的场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按使用周期选择。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按照选套餐、查适配、配订阅的顺序完成设置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "724NETWORK 提供多档海外加速套餐，覆盖日常浏览、流媒体解锁和游戏专线等场景。用户可根据设备数量和月流量需求，在基础版、旗舰版与团队版之间选择，并按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖日常与专线加速",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "3 台至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与 VIP 高带宽节点",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备与高带宽需求，按年付可节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、在线设备数与线路类型，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "下载对应客户端，参照客户端文档导入订阅信息并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "724NETWORK 海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备在线，使用普通线路节点池；旗舰版每月 300GB 流量、5 台设备在线，提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化，适合对延迟和画质有要求的用户。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB 流量、支持 20 台设备同时在线，配有 VIP 专属高带宽节点和企业定制路由，适合小型团队、工作室或需要多设备集中管理的场景。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付约 ¥150、旗舰版年付约 ¥350、团队版年付约 ¥850，相当于按十个月价格使用十二个月服务。长期使用建议直接选择年付。",
+          "AI_FAQ_QUESTION_4": "如何在设备上导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再依照客户端文档将订阅链接导入，客户端会自动获取节点信息。不同系统的导入入口略有差异，可参考客户端自带说明。",
+          "AI_FAQ_QUESTION_5": "套餐可以升级或变更吗？",
+          "AI_FAQ_ANSWER_5": "通常可以按周期变更套餐档位，从基础版升级到旗舰版或团队版时，按当前计费周期折算差价。具体规则以购买时展示的套餐说明为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gouzicloud.com",
+    "host": "gouzicloud.com"
+  },
+  "file_hashes": {
+    "index.html": "9e3be22c8a168c7a9fa53d163d47cb89287c2e65c283232813eb43ae5844733c",
+    "sitemap.xml": "53ae7a74083266225b30b83029c3fab774b6c8894ed4226bcaae73e5e1571e21",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6093f76f9e73f3a3eae874a0e2c3e722ae7a7070591dbf3875b728824c77012f",
+    "robots.txt": "434dab24c4a18f350670c8bc5d2b853943cbd611b787247d199e41a9a0373cb4",
+    "598e4491034aeb2c3bf0add4b45e2793.txt": "ed0440523b7b0912930deddc1bdeb31e09395ced1fb4e628a3acf972952a3fc0"
+  },
+  "revision": "0e5f12198c77ef0dcbac0ce57c4760c755ca96637b1620e9035ca781e968a089"
+}
